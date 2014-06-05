@@ -1,0 +1,35 @@
+./data:
+imageformats              libODSlib.so.1.0.0           libQt5Xml.so.5.3.0
+libblinkinkplugin.so      libopenchartplugin.so        libquazip.so
+libCrypto.so.1            libQt5Core.so.5              libquazip.so.1
+libCrypto.so.1.0          libQt5Core.so.5.3.0          libquazip.so.1.0
+libCrypto.so.1.0.0        libQt5DBus.so.5              libquazip.so.1.0.0
+libicudata.so.52          libQt5DBus.so.5.3.0          libSqlLib.so
+libicudata.so.52.1        libQt5Gui.so.5               libSqlLib.so.1
+libicui18n.so.52          libQt5Gui.so.5.3.0           libSqlLib.so.1.0
+libicui18n.so.52.1        libQt5Network.so.5           libSqlLib.so.1.0.0
+libicuuc.so.52            libQt5Network.so.5.3.0       platforms
+libicuuc.so.52.1          libQt5PrintSupport.so.5      poblaciones
+libmysqlclient.so         libQt5PrintSupport.so.5.3.0  printsupport
+libmysqlclient.so.18      libQt5Sql.so.5               RedFoX
+libmysqlclient.so.18.0.0  libQt5Sql.so.5.3.0           RedFoX.sh
+libODSlib.so              libQt5Widgets.so.5           sqldrivers
+libODSlib.so.1            libQt5Widgets.so.5.3.0
+libODSlib.so.1.0          libQt5Xml.so.5
+
+./data/imageformats:
+libqdds.so  libqicns.so  libqjp2.so   libqmng.so  libqtga.so   libqwbmp.so
+libqgif.so  libqico.so   libqjpeg.so  libqsvg.so  libqtiff.so  libqwebp.so
+
+./data/platforms:
+libqeglfs.so    libqminimalegl.so  libqoffscreen.so
+libqlinuxfb.so  libqminimal.so     libqxcb.so
+
+./data/poblaciones:
+Poblaciones.sqlite
+
+./data/printsupport:
+libcupsprintersupport.so
+
+./data/sqldrivers:
+libqsqlite.so  libqsqlmysql_old.so  libqsqlmysql.so  libqsqlpsql.so

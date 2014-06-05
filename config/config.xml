@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>RedFoX</Name>
+    <Version>5.0.0</Version>
+    <Title>RedFoX - Alfa</Title>
+    <Publisher>Neux Software</Publisher>
+    <StartMenuDir>Office</StartMenuDir>
+    <TargetDir>@HomeDir@/RedFoXAlfa</TargetDir>
+</Installer> 

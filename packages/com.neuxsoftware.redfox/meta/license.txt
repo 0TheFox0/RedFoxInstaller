@@ -1,0 +1,22 @@
+Esta es una versión Alfa de RedFoX.
+No es aconsejable para su uso en entornos de producción.
+Esta versión no representa la calidad final del producto.
+Entre esta versión y la versión final puede haber cambios sustanciales.
+
+RedFoX está licenciado bajo la licencia Creative Commons Attribution-NonCommercial 4.0 International License.
+
+Usted es libre de:
+
+Compartir — copiar y redistribuir el material en cualquier medio o formato.
+
+Adaptar — remezclar, transformar y crear a partir del material
+
+El licenciador no puede revocar estas libertades mientras cumpla con los términos de la licencia.
+Bajo las condiciones siguientes:
+Reconocimiento — Debe reconocer adecuadamente la autoría, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo de cualquier manera razonable, pero no de una manera que sugiera que tiene el apoyo del licenciador o lo recibe por el uso que hace.
+
+NoComercial — No puede utilizar el material para una finalidad comercial.(puede usar RedFoX en su empresa, pues para esto ha sido diseñado, pero no puede ganar dinero con la venta de RedFoX a otras personas o empresas, ni siquiera si éste ha sido modificado)
+
+CompartirIgual — Si remezcla, transforma o crea a partir del material, deberá difundir sus contribuciones bajo la misma licencia que el original.
+
+No hay restricciones adicionales — No puede aplicar términos legales o medidas tecnológicas que legalmente restrinjan realizar aquello que la licencia permite.
